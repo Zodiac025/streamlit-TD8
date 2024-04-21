@@ -13,4 +13,4 @@ def user_input_features():
 a=user_input_features()
 
 st.subheader("The largest number of the above is")
-st.write(a)
+st.subheader(a)
